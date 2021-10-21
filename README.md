@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 
+-
+-## 1. GitHub Stats
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=S4lL3N&show_icons=true)
 -![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=S4lL3N&theme=blue-green)
 - ![Profile View Counter](https://komarev.com/ghpvc/?username=S4lL3N)
 - Random Joke:
