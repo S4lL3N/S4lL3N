@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - Most Used Languages
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanu-N-Prabhu&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=S4lL3N&theme=blue-green)
 - ![Profile View Counter](https://komarev.com/ghpvc/?username=S4lL3N)
 - Random Joke:
 <!-- Markdown -->
